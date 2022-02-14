@@ -1,10 +1,11 @@
 ### Hi there 👋
-
+<hr>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yJon4ss&show_icons=true&theme=dark"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yJon4ss&theme=dark"/>
    
 </p>
+</hr>
 <hr>
 <div style="display: inline_block">
         <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
