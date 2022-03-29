@@ -1,6 +1,6 @@
 ### Hi there 👋
 <hr>
-<p>
+    <img src= "https://lanyard.cnrad.dev/api/431768491759239211" alt= "Discord Presence">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yJon4ss&theme=dark"/>
 </p>
 </hr>
