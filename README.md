@@ -3,7 +3,6 @@
 - Web development student
 - Linux user, i use arch btw
 - Currently learning reactjs!
-
 ### **Languages And Tolls:**
 <div style="display: inline_block">
         <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
@@ -16,6 +15,15 @@
     </div>
     <hr>
     </hr>
-    <div align= "center" style="display">
-    <img src= "https://lanyard.cnrad.dev/api/431768491759239211" alt= "Discord Presence">
-    </p>
+    <table>
+  <tr>
+    <td style="padding: 0; width=50%">
+        <img src="https://github-readme-stats.vercel.app/api/?username=yJon4ss&show_icons=true&title_color=539BF5&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=539BF5&hide_title=true&count_private=true"/>
+    </td>
+      <td style="padding: 0; width=50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yJon4ss&show_icons=true&title_color=539BF5&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
+    </td>
+  </tr>
+</table>
+
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=yJon4ss&custom_title=Contribution%20Graph&bg_color=00000000&area_color=539BF5&color=9f9f9f&line=539BF5&point=539BF5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
