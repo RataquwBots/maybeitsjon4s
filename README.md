@@ -14,8 +14,9 @@
         <img alt="Firebase" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>
         <img alt="MongoDB" height="60" width="60" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
     </div>
-    <hr>
-    </hr>
+    <h1 align="center">My Discord </h1>
+    <img src="https://lanyard.cnrad.dev/api/431768491759239211?bg=1f1f1f&borderRadius=5px" alt="Discord Status"/>
+    <h1 align="center"> My stats </h1>
     <table>
   <tr>
     <td style="padding: 0; width=50%">
