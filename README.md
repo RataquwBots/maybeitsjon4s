@@ -6,6 +6,14 @@
 - I like WebDev
 <hr/>
 
+### 💻 × Technologies and Tools
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src='https://skillicons.dev/icons?i=react,tailwind,git,nodejs,postgres,redis,nextjs,discord,vue,idea,js,linux,md,sass,bash,electron' />
+    </a>
+  </p>
+
 ### 📚 × Github Stats
 
 <table>
