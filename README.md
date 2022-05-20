@@ -1,7 +1,7 @@
 <h1 align="center">Jon4s</h1>
 
 - 14y (10/08)
-- Ricing enthusiast
+- Linux enthusiast
 - Studying ReactJS
 - I like WebDev
 <hr/>
